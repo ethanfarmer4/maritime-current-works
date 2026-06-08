@@ -1,0 +1,1 @@
+Open index.html in a browser. This version has all images and styling embedded, so it should display correctly even if you open the HTML file by itself. The assets and CSS folders are also included for editing.
